@@ -31,7 +31,7 @@ For å redigere dette kodeområdet i MakeCode.
 Dette bildet viser blokk-koden fra den siste oppdateringen i hovedgrenen.
 Dette bildet kan ta noen minutter å oppdatere.
 
-![En opptegnet visning av blokkene](https://github.com/olauk/ai-lens-kortgjenkjenning/raw/master/.github/makecode/blocks.png)
+![En opptegnet visning av blokkene](https://github.com/olauk/ai-lens-kortgjenkjenning/blob/e825d7b716ffb70a5f53b1145e6e098a2d6055c3/.github/makecode/blocks.png)
 
 #### Metadata (brukes for søk, visualisering)
 
