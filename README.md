@@ -1,6 +1,14 @@
 
 > Åpne denne siden på [https://olauk.github.io/ai-lens-kortgjenkjenning/](https://olauk.github.io/ai-lens-kortgjenkjenning/)
 
+## Eksempelkode på bruk at micro:bit med AI-lens og WuKong breakoutboard.
+
+Dette prosjektet er en eksempelkode for bruk av micro:bit med AI-lens og WuKong-breakoutboard
+for å utforske bildegjenkjenning med microbit. 
+Her bruker vi AI-len til å kjenne igjen ferdigtrenede bildekort og bruker servomotor til å flytte en pil slik at den viser til riktig merking på vårt laserkuttede visningsbrett.
+
+[bilde kommer]
+
 ## Bruk som utvidelse
 
 Dette kodeområdet kan bli lagt til som en **utvidelse** i MakeCode.
@@ -10,7 +18,7 @@ Dette kodeområdet kan bli lagt til som en **utvidelse** i MakeCode.
 * klikk på **Utvidelser** i menyen under tannhjulet
 * søk etter **https://github.com/olauk/ai-lens-kortgjenkjenning** og importér
 
-## Rediger dette prosjektet ![Bygg statusmerke](https://github.com/olauk/ai-lens-kortgjenkjenning/workflows/MakeCode/badge.svg)
+## Rediger dette prosjektet
 
 For å redigere dette kodeområdet i MakeCode.
 

@@ -2,6 +2,7 @@ input.onButtonPressed(Button.A, function () {
     basic.showArrow(ArrowNames.West)
     wuKong.setServoAngle(wuKong.ServoTypeList._180, wuKong.ServoList.S0, 170)
 })
+// Denne blokken brukes for å kalibrere servoen, slik at vi kan justere pilen på visningsbrettet. Når knapp A+B trykkes så vises pil mot øst (høyre) og servomotoren settes til 10 grader (peker mot høyre på visningsbrettet)
 input.onButtonPressed(Button.AB, function () {
     basic.showArrow(ArrowNames.East)
     wuKong.setServoAngle(wuKong.ServoTypeList._180, wuKong.ServoList.S0, 10)
