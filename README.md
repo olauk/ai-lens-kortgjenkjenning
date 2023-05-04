@@ -7,7 +7,7 @@ Dette prosjektet er en eksempelkode for bruk av micro:bit med AI-lens og WuKong-
 for å utforske bildegjenkjenning med microbit. 
 Her bruker vi AI-len til å kjenne igjen ferdigtrenede bildekort og bruker servomotor til å flytte en pil slik at den viser til riktig merking på vårt laserkuttede visningsbrett.
 
-[bilde kommer]
+![Bilde av visningsbrett](https://github.com/olauk/ai-lens-kortgjenkjenning/blob/e5eb25728dd6db30e362337171b1593205c80da3/.github/makecode/IMG_3776.jpg)
 
 ## Bruk som utvidelse
 
